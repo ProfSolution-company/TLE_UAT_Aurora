@@ -2144,7 +2144,7 @@
 			<c>
 				<c>
 					<f>160</f>
-					<parameter>ПолноеНаименование</parameter>
+					<parameter>НаименованиеНоменклатуры</parameter>
 				</c>
 			</c>
 			<c>
@@ -2307,7 +2307,6 @@
 	<rowsItem>
 		<index>36</index>
 		<row>
-			<formatIndex>170</formatIndex>
 			<empty>true</empty>
 		</row>
 	</rowsItem>
@@ -2315,31 +2314,31 @@
 		<index>37</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>171</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<i>6</i>
 				<c>
+					<f>33</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>13</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>34</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>171</f>
+				</c>
+			</c>
+			<c>
+				<c>
 					<f>172</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>173</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>174</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>175</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>176</f>
 				</c>
 			</c>
 		</row>
@@ -2348,15 +2347,15 @@
 		<index>38</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>171</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<c>
-					<f>177</f>
+					<f>173</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>178</f>
+					<f>174</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -2367,48 +2366,48 @@
 			</c>
 			<c>
 				<c>
-					<f>179</f>
+					<f>175</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>179</f>
+					<f>175</f>
 				</c>
 			</c>
 			<c>
 				<i>5</i>
 				<c>
-					<f>179</f>
+					<f>175</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>179</f>
+					<f>175</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>179</f>
+					<f>175</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>179</f>
+					<f>175</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>179</f>
+					<f>175</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>179</f>
+					<f>175</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>179</f>
+					<f>175</f>
 				</c>
 			</c>
 		</row>
@@ -2417,26 +2416,26 @@
 		<index>39</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>171</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<c>
-					<f>177</f>
+					<f>173</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>177</f>
+					<f>173</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>177</f>
+					<f>173</f>
 				</c>
 			</c>
 			<c>
 				<i>6</i>
 				<c>
-					<f>180</f>
+					<f>176</f>
 				</c>
 			</c>
 		</row>
@@ -2445,15 +2444,15 @@
 		<index>40</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>181</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<c>
-					<f>182</f>
+					<f>173</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>183</f>
+					<f>177</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -2464,8 +2463,52 @@
 			</c>
 			<c>
 				<c>
-					<f>184</f>
-					<parameter>ПР_ОсобыеОтметки</parameter>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>31</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
 				</c>
 			</c>
 		</row>
@@ -2474,7 +2517,32 @@
 		<index>41</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>181</formatIndex>
+			<formatIndex>170</formatIndex>
+			<c>
+				<c>
+					<f>173</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>178</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>179</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>180</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>181</f>
+				</c>
+			</c>
 			<c>
 				<c>
 					<f>182</f>
@@ -2482,16 +2550,24 @@
 			</c>
 			<c>
 				<c>
+					<f>176</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>183</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>184</f>
+				</c>
+			</c>
+			<c>
+				<c>
 					<f>185</f>
 				</c>
 			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>42</index>
-		<row>
-			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>181</formatIndex>
 			<c>
 				<c>
 					<f>186</f>
@@ -2505,46 +2581,77 @@
 		</row>
 	</rowsItem>
 	<rowsItem>
-		<index>43</index>
+		<index>42</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>181</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<c>
-					<f>186</f>
+					<f>0</f>
 				</c>
 			</c>
 			<c>
-				<c>
-					<f>185</f>
-				</c>
-			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>44</index>
-		<row>
-			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>181</formatIndex>
-			<c>
-				<i>1</i>
 				<c>
 					<f>188</f>
 				</c>
 			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>45</index>
-		<row>
-			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
 			<c>
-				<i>1</i>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>31</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>189</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>175</f>
+				</c>
+			</c>
+			<c>
 				<c>
 					<f>190</f>
 				</c>
 			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>43</index>
+		<row>
+			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
+			<formatIndex>170</formatIndex>
 			<c>
 				<c>
 					<f>191</f>
@@ -2552,7 +2659,27 @@
 			</c>
 			<c>
 				<c>
+					<f>178</f>
+				</c>
+			</c>
+			<c>
+				<c>
 					<f>192</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>180</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>181</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>182</f>
 				</c>
 			</c>
 			<c>
@@ -2562,12 +2689,40 @@
 			</c>
 			<c>
 				<c>
-					<f>194</f>
+					<f>183</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>184</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>185</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>186</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>187</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>44</index>
+		<row>
+			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
+			<formatIndex>170</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>194</f>
 				</c>
 			</c>
 			<c>
@@ -2577,12 +2732,12 @@
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>196</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>196</f>
+					<f>31</f>
 				</c>
 			</c>
 			<c>
@@ -2595,17 +2750,105 @@
 					<f>198</f>
 				</c>
 			</c>
+			<c>
+				<c>
+					<f>199</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>200</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>189</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>201</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>190</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>45</index>
+		<row>
+			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
+			<formatIndex>170</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>202</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>179</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>176</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>181</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>203</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>176</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>183</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>176</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>204</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>205</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>187</f>
+				</c>
+			</c>
 		</row>
 	</rowsItem>
 	<rowsItem>
 		<index>46</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<i>1</i>
 				<c>
-					<f>199</f>
+					<f>206</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -2616,42 +2859,17 @@
 			</c>
 			<c>
 				<c>
-					<f>200</f>
+					<f>207</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>201</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>194</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>192</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>195</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>192</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>202</f>
+					<f>208</f>
 				</c>
 			</c>
 			<c>
@@ -2661,105 +2879,17 @@
 			</c>
 			<c>
 				<c>
-					<f>204</f>
-				</c>
-			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>47</index>
-		<row>
-			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
-			<c>
-				<i>1</i>
-				<c>
-					<f>190</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>191</f>
+					<f>183</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>193</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>194</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>192</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>195</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>192</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>196</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>197</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>198</f>
-				</c>
-			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>48</index>
-		<row>
-			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
-			<c>
-				<i>1</i>
-				<c>
-					<f>205</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Сдал</v8:content>
-						</v8:item>
-					</tl>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>206</f>
-					<parameter>ДолжностьСдал</parameter>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>207</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>208</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
@@ -2777,15 +2907,92 @@
 					<f>211</f>
 				</c>
 			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>47</index>
+		<row>
+			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
+			<formatIndex>170</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>202</f>
+				</c>
+			</c>
 			<c>
 				<c>
+					<f>179</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>176</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>181</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>203</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>176</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>183</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>176</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>204</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>205</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>187</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>48</index>
+		<row>
+			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
+			<formatIndex>170</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
 					<f>212</f>
-					<parameter>РасшифровкаПодписиСдал</parameter>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Сдал</v8:content>
+						</v8:item>
+					</tl>
 				</c>
 			</c>
 			<c>
 				<c>
 					<f>213</f>
+					<parameter>ДолжностьСдал</parameter>
 				</c>
 			</c>
 			<c>
@@ -2798,61 +3005,25 @@
 					<f>215</f>
 				</c>
 			</c>
-		</row>
-	</rowsItem>
-	<rowsItem>
-		<index>49</index>
-		<row>
-			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
 			<c>
-				<i>1</i>
 				<c>
 					<f>216</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>М.П.</v8:content>
-						</v8:item>
-					</tl>
 				</c>
 			</c>
 			<c>
 				<c>
 					<f>217</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>(должность)</v8:content>
-						</v8:item>
-					</tl>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>192</f>
-					<tl/>
 				</c>
 			</c>
 			<c>
 				<c>
 					<f>218</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>(подпись)</v8:content>
-						</v8:item>
-					</tl>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>209</f>
 				</c>
 			</c>
 			<c>
 				<c>
 					<f>219</f>
+					<parameter>РасшифровкаПодписиСдал</parameter>
 				</c>
 			</c>
 			<c>
@@ -2863,6 +3034,78 @@
 			<c>
 				<c>
 					<f>221</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>222</f>
+				</c>
+			</c>
+		</row>
+	</rowsItem>
+	<rowsItem>
+		<index>49</index>
+		<row>
+			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
+			<formatIndex>170</formatIndex>
+			<c>
+				<i>1</i>
+				<c>
+					<f>223</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>М.П.</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>224</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>(должность)</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>176</f>
+					<tl/>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>225</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>(подпись)</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>216</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>226</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>227</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>228</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -2873,17 +3116,17 @@
 			</c>
 			<c>
 				<c>
-					<f>222</f>
+					<f>229</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>223</f>
+					<f>230</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>224</f>
+					<f>231</f>
 				</c>
 			</c>
 		</row>
@@ -2892,61 +3135,61 @@
 		<index>50</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<i>1</i>
 				<c>
-					<f>225</f>
+					<f>232</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>226</f>
+					<f>233</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>227</f>
+					<f>234</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>194</f>
+					<f>203</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>195</f>
+					<f>183</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>228</f>
+					<f>235</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>229</f>
+					<f>236</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>230</f>
+					<f>237</f>
 				</c>
 			</c>
 		</row>
@@ -2955,61 +3198,61 @@
 		<index>51</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<i>1</i>
 				<c>
-					<f>225</f>
+					<f>232</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>226</f>
+					<f>233</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>227</f>
+					<f>234</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>194</f>
+					<f>203</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>195</f>
+					<f>183</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>228</f>
+					<f>235</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>229</f>
+					<f>236</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>230</f>
+					<f>237</f>
 				</c>
 			</c>
 		</row>
@@ -3018,11 +3261,11 @@
 		<index>52</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<i>1</i>
 				<c>
-					<f>231</f>
+					<f>238</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -3033,52 +3276,52 @@
 			</c>
 			<c>
 				<c>
-					<f>226</f>
+					<f>233</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>227</f>
+					<f>234</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>194</f>
+					<f>203</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>195</f>
+					<f>183</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>228</f>
+					<f>235</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>229</f>
+					<f>236</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>230</f>
+					<f>237</f>
 				</c>
 			</c>
 		</row>
@@ -3087,61 +3330,61 @@
 		<index>53</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<i>1</i>
 				<c>
-					<f>225</f>
+					<f>232</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>226</f>
+					<f>233</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>227</f>
+					<f>234</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>194</f>
+					<f>203</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>195</f>
+					<f>183</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>228</f>
+					<f>235</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>229</f>
+					<f>236</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>230</f>
+					<f>237</f>
 				</c>
 			</c>
 		</row>
@@ -3150,11 +3393,11 @@
 		<index>54</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<i>1</i>
 				<c>
-					<f>205</f>
+					<f>212</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -3165,54 +3408,54 @@
 			</c>
 			<c>
 				<c>
-					<f>206</f>
+					<f>213</f>
 					<parameter>ДолжностьПринял</parameter>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>232</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>208</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>209</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>210</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>233</f>
-					<parameter>РасшифровкаПодписиПринял</parameter>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>234</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>213</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>214</f>
+					<f>239</f>
 				</c>
 			</c>
 			<c>
 				<c>
 					<f>215</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>216</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>217</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>240</f>
+					<parameter>РасшифровкаПодписиПринял</parameter>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>241</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>220</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>221</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>222</f>
 				</c>
 			</c>
 		</row>
@@ -3221,11 +3464,11 @@
 		<index>55</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<i>1</i>
 				<c>
-					<f>216</f>
+					<f>223</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -3236,7 +3479,7 @@
 			</c>
 			<c>
 				<c>
-					<f>217</f>
+					<f>224</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -3247,13 +3490,13 @@
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>176</f>
 					<tl/>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>218</f>
+					<f>225</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -3264,22 +3507,22 @@
 			</c>
 			<c>
 				<c>
-					<f>209</f>
+					<f>216</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>219</f>
+					<f>226</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>220</f>
+					<f>227</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>221</f>
+					<f>228</f>
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -3290,17 +3533,17 @@
 			</c>
 			<c>
 				<c>
-					<f>222</f>
+					<f>229</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>235</f>
+					<f>242</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>224</f>
+					<f>231</f>
 				</c>
 			</c>
 		</row>
@@ -3309,61 +3552,61 @@
 		<index>56</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<i>1</i>
+				<c>
+					<f>223</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>224</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>176</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>225</f>
+				</c>
+			</c>
+			<c>
 				<c>
 					<f>216</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>217</f>
+					<f>226</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>227</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>218</f>
+					<f>228</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>209</f>
+					<f>229</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>219</f>
+					<f>242</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>220</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>221</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>222</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>235</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>224</f>
+					<f>231</f>
 				</c>
 			</c>
 		</row>
@@ -3372,61 +3615,61 @@
 		<index>57</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<i>1</i>
+				<c>
+					<f>223</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>224</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>176</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>225</f>
+				</c>
+			</c>
+			<c>
 				<c>
 					<f>216</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>217</f>
+					<f>226</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>227</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>218</f>
+					<f>228</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>209</f>
+					<f>229</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>219</f>
+					<f>242</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>220</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>221</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>222</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>235</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>224</f>
+					<f>231</f>
 				</c>
 			</c>
 		</row>
@@ -3435,61 +3678,61 @@
 		<index>58</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<i>1</i>
+				<c>
+					<f>223</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>224</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>176</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>225</f>
+				</c>
+			</c>
+			<c>
 				<c>
 					<f>216</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>217</f>
+					<f>226</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>227</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>218</f>
+					<f>228</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>209</f>
+					<f>229</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>219</f>
+					<f>242</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>220</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>221</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>222</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>235</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>224</f>
+					<f>231</f>
 				</c>
 			</c>
 		</row>
@@ -3498,61 +3741,61 @@
 		<index>59</index>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
+			<formatIndex>170</formatIndex>
 			<c>
 				<i>1</i>
+				<c>
+					<f>223</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>224</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>176</f>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>225</f>
+				</c>
+			</c>
+			<c>
 				<c>
 					<f>216</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>217</f>
+					<f>226</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>192</f>
+					<f>227</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>218</f>
+					<f>228</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>209</f>
+					<f>229</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>219</f>
+					<f>242</f>
 				</c>
 			</c>
 			<c>
 				<c>
-					<f>220</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>221</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>222</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>235</f>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>224</f>
+					<f>231</f>
 				</c>
 			</c>
 		</row>
@@ -3562,7 +3805,7 @@
 		<indexTo>63</indexTo>
 		<row>
 			<columnsID>b88482b0-dc11-47cd-baad-9fefd83f708f</columnsID>
-			<formatIndex>189</formatIndex>
+			<formatIndex>170</formatIndex>
 			<empty>true</empty>
 		</row>
 	</rowsItem>
@@ -3809,14 +4052,28 @@
 	</merge>
 	<merge>
 		<r>40</r>
-		<c>2</c>
-		<h>3</h>
-		<w>9</w>
+		<c>3</c>
+		<w>1</w>
+	</merge>
+	<merge>
+		<r>41</r>
+		<c>3</c>
+		<w>1</w>
+	</merge>
+	<merge>
+		<r>42</r>
+		<c>3</c>
+		<w>1</w>
+	</merge>
+	<merge>
+		<r>43</r>
+		<c>3</c>
+		<w>1</w>
 	</merge>
 	<merge>
 		<r>44</r>
-		<c>1</c>
-		<w>10</w>
+		<c>3</c>
+		<w>1</w>
 	</merge>
 	<merge>
 		<r>45</r>
@@ -4053,7 +4310,7 @@
 		<area>
 			<type>Rows</type>
 			<beginRow>37</beginRow>
-			<endRow>56</endRow>
+			<endRow>63</endRow>
 			<beginColumn>-1</beginColumn>
 			<endColumn>-1</endColumn>
 		</area>
@@ -4107,8 +4364,6 @@
 	<font faceName="Arial" height="9.8" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute" scale="100"/>
 	<font faceName="Arial" height="8" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute" scale="100"/>
 	<font faceName="Arial" height="8.3" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute" scale="100"/>
-	<font faceName="Arial" height="8.3" bold="false" italic="false" underline="false" strikeout="false" kind="Absolute" scale="100"/>
-	<font faceName="Arial" height="10" bold="false" italic="false" underline="true" strikeout="false" kind="Absolute" scale="100"/>
 	<font faceName="Arial" height="8.3" bold="false" italic="false" underline="false" strikeout="false" kind="Absolute" scale="100"/>
 	<font faceName="Arial" height="10" bold="true" italic="false" underline="false" strikeout="false" kind="Absolute" scale="100"/>
 	<format>
@@ -5085,43 +5340,23 @@
 		<fillType>Parameter</fillType>
 	</format>
 	<format>
-		<textPlacement>Wrap</textPlacement>
-	</format>
-	<format>
 		<height>51</height>
-		<textPlacement>Wrap</textPlacement>
-	</format>
-	<format>
-		<width>155</width>
-		<textPlacement>Wrap</textPlacement>
-	</format>
-	<format>
-		<width>13</width>
-		<textPlacement>Wrap</textPlacement>
-	</format>
-	<format>
-		<width>248</width>
-		<textPlacement>Wrap</textPlacement>
 	</format>
 	<format>
 		<width>31</width>
-		<textPlacement>Wrap</textPlacement>
 	</format>
 	<format>
 		<width>63</width>
-		<textPlacement>Wrap</textPlacement>
 	</format>
 	<format>
 		<font>16</font>
-		<textPlacement>Wrap</textPlacement>
 	</format>
 	<format>
 		<font>17</font>
-		<textPlacement>Wrap</textPlacement>
 	</format>
 	<format>
+		<bottomBorder>1</bottomBorder>
 		<width>72</width>
-		<textPlacement>Wrap</textPlacement>
 	</format>
 	<format>
 		<font>12</font>
@@ -5129,64 +5364,13 @@
 		<width>72</width>
 		<horizontalAlignment>Center</horizontalAlignment>
 		<verticalAlignment>Top</verticalAlignment>
-		<textPlacement>Wrap</textPlacement>
-	</format>
-	<format>
-		<height>51</height>
-		<horizontalAlignment>Justify</horizontalAlignment>
-		<textPlacement>Wrap</textPlacement>
-	</format>
-	<format>
-		<font>16</font>
-		<horizontalAlignment>Justify</horizontalAlignment>
-		<textPlacement>Wrap</textPlacement>
 	</format>
 	<format>
 		<font>17</font>
 		<width>125</width>
-		<horizontalAlignment>Justify</horizontalAlignment>
-		<textPlacement>Wrap</textPlacement>
-	</format>
-	<format>
-		<font>18</font>
-		<width>72</width>
-		<horizontalAlignment>Justify</horizontalAlignment>
-		<verticalAlignment>Top</verticalAlignment>
-		<textPlacement>Wrap</textPlacement>
-		<fillType>Parameter</fillType>
 	</format>
 	<format>
 		<font>16</font>
-		<height>32</height>
-		<width>125</width>
-		<horizontalAlignment>Justify</horizontalAlignment>
-		<textPlacement>Wrap</textPlacement>
-	</format>
-	<format>
-		<horizontalAlignment>Justify</horizontalAlignment>
-		<textPlacement>Wrap</textPlacement>
-	</format>
-	<format>
-		<font>19</font>
-		<width>125</width>
-		<horizontalAlignment>Justify</horizontalAlignment>
-		<verticalAlignment>Top</verticalAlignment>
-		<textPlacement>Auto</textPlacement>
-		<fillType>Text</fillType>
-		<columnSizeChange>Normal</columnSizeChange>
-	</format>
-	<format>
-		<font>16</font>
-		<height>51</height>
-		<width>177</width>
-		<horizontalAlignment>Justify</horizontalAlignment>
-		<textPlacement>Wrap</textPlacement>
-		<fillType>Text</fillType>
-	</format>
-	<format>
-		<height>51</height>
-	</format>
-	<format>
 		<height>32</height>
 		<width>125</width>
 	</format>
@@ -5196,15 +5380,97 @@
 		<width>177</width>
 	</format>
 	<format>
-		<font>12</font>
 		<height>32</height>
-		<width>72</width>
-		<horizontalAlignment>Center</horizontalAlignment>
-		<verticalAlignment>Top</verticalAlignment>
+		<width>264</width>
 	</format>
 	<format>
 		<height>32</height>
 		<width>132</width>
+	</format>
+	<format>
+		<height>32</height>
+		<width>10</width>
+	</format>
+	<format>
+		<height>32</height>
+		<width>13</width>
+	</format>
+	<format>
+		<height>32</height>
+		<width>248</width>
+	</format>
+	<format>
+		<height>32</height>
+		<width>31</width>
+	</format>
+	<format>
+		<height>32</height>
+		<width>63</width>
+	</format>
+	<format>
+		<height>32</height>
+		<width>27</width>
+	</format>
+	<format>
+		<font>16</font>
+		<bottomBorder>1</bottomBorder>
+		<width>125</width>
+	</format>
+	<format>
+		<bottomBorder>1</bottomBorder>
+		<width>31</width>
+	</format>
+	<format>
+		<bottomBorder>1</bottomBorder>
+		<width>27</width>
+	</format>
+	<format>
+		<horizontalAlignment>Right</horizontalAlignment>
+	</format>
+	<format>
+		<height>32</height>
+		<width>177</width>
+	</format>
+	<format>
+		<height>32</height>
+		<width>155</width>
+	</format>
+	<format>
+		<font>16</font>
+		<bottomBorder>1</bottomBorder>
+		<width>177</width>
+	</format>
+	<format>
+		<bottomBorder>1</bottomBorder>
+		<width>177</width>
+	</format>
+	<format>
+		<bottomBorder>1</bottomBorder>
+		<width>264</width>
+	</format>
+	<format>
+		<bottomBorder>1</bottomBorder>
+		<width>10</width>
+	</format>
+	<format>
+		<bottomBorder>1</bottomBorder>
+		<width>155</width>
+	</format>
+	<format>
+		<bottomBorder>1</bottomBorder>
+		<width>13</width>
+	</format>
+	<format>
+		<bottomBorder>1</bottomBorder>
+		<width>248</width>
+	</format>
+	<format>
+		<bottomBorder>1</bottomBorder>
+		<width>63</width>
+	</format>
+	<format>
+		<height>32</height>
+		<width>125</width>
 	</format>
 	<format>
 		<font>12</font>
@@ -5212,10 +5478,6 @@
 		<width>10</width>
 		<horizontalAlignment>Center</horizontalAlignment>
 		<verticalAlignment>Top</verticalAlignment>
-	</format>
-	<format>
-		<height>32</height>
-		<width>13</width>
 	</format>
 	<format>
 		<height>32</height>
@@ -5228,10 +5490,6 @@
 		<width>53</width>
 		<horizontalAlignment>Center</horizontalAlignment>
 		<verticalAlignment>Top</verticalAlignment>
-	</format>
-	<format>
-		<height>32</height>
-		<width>27</width>
 	</format>
 	<format>
 		<font>3</font>
@@ -5267,7 +5525,7 @@
 		<width>27</width>
 	</format>
 	<format>
-		<font>20</font>
+		<font>18</font>
 		<height>0</height>
 		<width>125</width>
 	</format>
